@@ -1,0 +1,456 @@
+<resources>
+    <string name="app_name">Faculty_of_Science</string>
+    <string-array name="faculty">
+        <item>Choose your Faculty .... </item>
+        <item>Petroleum and Mining Engineering Faculty</item>
+        <item>Science Faculty</item>
+        <item>Education Faculty</item>
+        <item>Arts and Humanities science Faculty</item>
+        <item>Computers and information </item>
+        <item>Fish resources and marine studies </item>
+        <item>Politics and Economy</item>
+    </string-array>
+
+    <string-array name="departmentSC">
+        <item>Choose your Department .... </item>
+        <item>Industrial Chemistry</item>
+        <item>Petroleum Geology and Natural Gas</item>
+        <item>Physics</item>
+        <item>Mathematics</item>
+        <item>Microbiology</item>
+        <item>Biotechnology</item>
+    </string-array>
+
+    <string-array name="yearCH">
+        <item>Choose the year...</item>
+        <item>First Year CH</item>
+        <item>second Year CH</item>
+        <item>Third Year CH</item>
+        <item>Forth Year CH</item>
+    </string-array>
+
+    <string-array name="yearPG">
+        <item>Choose the year...</item>
+        <item>First Year PG</item>
+        <item>Second Year PG</item>
+        <item>Third Year PG</item>
+        <item>Forth Year PG</item>
+    </string-array>
+
+    <string-array name="yearPH">
+        <item>Choose the year...</item>
+        <item>First Year PH</item>
+        <item>Second Year PH</item>
+        <item>Third Year PH</item>
+        <item>Forth Year PH</item>
+    </string-array>
+
+    <string-array name="yearMA">
+        <item>Choose the year...</item>
+        <item>First Year MA</item>
+        <item>Second Year MA</item>
+        <item>Third Year MA</item>
+        <item>Forth Year MA</item>
+    </string-array>
+
+    <string-array name="yearMB">
+        <item>Choose the year...</item>
+        <item>First Year MB</item>
+        <item>Second Year MB</item>
+        <item>Third Year MB</item>
+        <item>Forth Year MB</item>
+    </string-array>
+
+    <string-array name="yearBT">
+        <item>Choose the year...</item>
+        <item>First Year BT</item>
+        <item>Second Year BT</item>
+        <item>Third Year BT</item>
+        <item>Forth Year BT</item>
+    </string-array>
+
+    <string-array name="semesterCH1">
+        <item>Choose the semester...</item>
+        <item>first semester CH Y1</item>
+        <item>second semester CH Y1</item>
+    </string-array>
+
+    <string-array name="semesterCH2">
+        <item>Choose the semester...</item>
+        <item>first semester CH Y2</item>
+        <item>second semester CH Y2</item>
+    </string-array>
+
+    <string-array name="semesterCH3">
+        <item>Choose the semester...</item>
+        <item>first semester CH Y3</item>
+        <item>second semester CH Y3</item>
+    </string-array>
+
+    <string-array name="semesterCH4">
+        <item>Choose the semester...</item>
+        <item>first semester CH Y4</item>
+        <item>second semester CH Y4</item>
+    </string-array>
+
+    <string-array name="semesterPG1">
+        <item>Choose the semester...</item>
+        <item>first semester PG Y1</item>
+        <item>second semester PG Y1</item>
+    </string-array>
+
+    <string-array name="semesterPG2">
+        <item>Choose the semester...</item>
+        <item>first semester PG Y2</item>
+        <item>second semester CH Y2</item>
+    </string-array>
+
+    <string-array name="semesterPG3">
+        <item>Choose the semester...</item>
+        <item>first semester PG Y3</item>
+        <item>second semester PG Y3</item>
+    </string-array>
+
+    <string-array name="semesterPG4">
+        <item>Choose the semester...</item>
+        <item>first semester PG Y4</item>
+        <item>second semester PG Y4</item>
+    </string-array>
+
+    <string-array name="semesterPH1">
+        <item>Choose the semester...</item>
+        <item>first semester PH Y1</item>
+        <item>second semester PH Y1</item>
+    </string-array>
+
+    <string-array name="semesterPH2">
+        <item>Choose the semester...</item>
+        <item>first semester PH Y2</item>
+        <item>second semester PH Y2</item>
+    </string-array>
+
+    <string-array name="semesterPH3">
+        <item>Choose the semester...</item>
+        <item>first semester PH Y3</item>
+        <item>second semester PH Y3</item>
+    </string-array>
+
+    <string-array name="semesterPH4">
+        <item>Choose the semester...</item>
+        <item>first semester PH Y4</item>
+        <item>second semester PH Y4</item>
+    </string-array>
+
+    <string-array name="semesterMA1">
+        <item>Choose the semester...</item>
+        <item>first semester MA Y1</item>
+        <item>second semester MA Y1</item>
+    </string-array>
+
+    <string-array name="semesterMA2">
+        <item>Choose the semester...</item>
+        <item>first semester MA Y2</item>
+        <item>second semester MA Y2</item>
+    </string-array>
+
+    <string-array name="semesterMA3">
+        <item>Choose the semester...</item>
+        <item>first semester MA Y3</item>
+        <item>second semester MA Y3</item>
+    </string-array>
+
+    <string-array name="semesterMA4">
+        <item>Choose the semester...</item>
+        <item>first semester MA Y4</item>
+        <item>second semester MA Y4</item>
+    </string-array>
+
+    <string-array name="semesterMB1">
+        <item>Choose the semester...</item>
+        <item>first semester MB Y1</item>
+        <item>second semester MB Y1</item>
+    </string-array>
+
+    <string-array name="semesterMB2">
+        <item>Choose the semester...</item>
+        <item>first semester MB Y2</item>
+        <item>second semester MB Y2</item>
+    </string-array>
+
+    <string-array name="semesterMB3">
+        <item>Choose the semester...</item>
+        <item>first semester MB Y3</item>
+        <item>second semester MB Y3</item>
+    </string-array>
+
+    <string-array name="semesterMB4">
+        <item>Choose the semester...</item>
+        <item>first semester MB Y4</item>
+        <item>second semester MB Y4</item>
+    </string-array>
+
+    <string-array name="semesterBT1">
+        <item>Choose the semester...</item>
+        <item>first semester BT Y1</item>
+        <item>second semester BT Y1</item>
+    </string-array>
+
+    <string-array name="semesterBT2">
+        <item>Choose the semester...</item>
+        <item>first semester BT Y2</item>
+        <item>second semester BT Y2</item>
+    </string-array>
+
+    <string-array name="semesterBT3">
+        <item>Choose the semester...</item>
+        <item>first semester BT Y3</item>
+        <item>second semester BT Y3</item>
+    </string-array>
+
+    <string-array name="semesterBT4">
+        <item>Choose the semester...</item>
+        <item>first semester BT Y4</item>
+        <item>second semester BT Y4</item>
+    </string-array>
+
+    <string-array name="materialCH11">
+        <item>اختر المادة...</item>
+        <item>حقوق انسان</item>
+    </string-array>
+
+    <string-array name="materialCH12">
+        <item>اختر المادة...</item>
+
+    </string-array>
+
+    <string-array name="materialCH21">
+        <item>اختر المادة...</item>
+
+    </string-array>
+
+    <string-array name="materialCH22">
+        <item>اختر المادة...</item>
+
+    </string-array>
+
+    <string-array name="materialCH31">
+        <item>اختر المادة...</item>
+
+    </string-array>
+
+    <string-array name="materialCH32">
+        <item>اختر المادة...</item>
+
+    </string-array>
+
+    <string-array name="materialCH41">
+        <item>اختر المادة...</item>
+
+    </string-array>
+
+    <string-array name="materialCH42">
+        <item>اختر المادة...</item>
+
+    </string-array>
+
+    <string-array name="materialPG11">
+        <item>اختر المادة...</item>
+        <item>حقوق انسان</item>
+    </string-array>
+
+    <string-array name="materialPG12">
+        <item>اختر المادة...</item>
+
+    </string-array>
+
+    <string-array name="materialPG21">
+        <item>اختر المادة...</item>
+
+    </string-array>
+
+    <string-array name="materialPG22">
+        <item>اختر المادة...</item>
+
+    </string-array>
+
+    <string-array name="materialPG31">
+        <item>اختر المادة...</item>
+
+    </string-array>
+
+    <string-array name="materialPG32">
+        <item>اختر المادة...</item>
+
+    </string-array>
+
+    <string-array name="materialPG41">
+        <item>اختر المادة...</item>
+
+    </string-array>
+
+    <string-array name="materialPG42">
+        <item>اختر المادة...</item>
+
+    </string-array>
+
+    <string-array name="materialPH11">
+        <item>اختر المادة...</item>
+        <item>حقوق انسان</item>
+    </string-array>
+
+    <string-array name="materialPH12">
+        <item>اختر المادة...</item>
+
+    </string-array>
+
+    <string-array name="materialPH21">
+        <item>اختر المادة...</item>
+
+    </string-array>
+
+    <string-array name="materialPH22">
+        <item>اختر المادة...</item>
+
+    </string-array>
+
+    <string-array name="materialPH31">
+        <item>اختر المادة...</item>
+
+    </string-array>
+
+    <string-array name="materialPH32">
+        <item>اختر المادة...</item>
+
+    </string-array>
+
+    <string-array name="materialPH41">
+        <item>اختر المادة...</item>
+
+    </string-array>
+
+    <string-array name="materialPH42">
+        <item>اختر المادة...</item>
+
+    </string-array>
+
+    <string-array name="materialMA11">
+        <item>اختر المادة...</item>
+        <item>حقوق انسان</item>
+    </string-array>
+
+    <string-array name="materialMA12">
+        <item>اختر المادة...</item>
+
+    </string-array>
+
+    <string-array name="materialMA21">
+        <item>اختر المادة...</item>
+
+    </string-array>
+
+    <string-array name="materialMA22">
+        <item>اختر المادة...</item>
+
+    </string-array>
+
+    <string-array name="materialMA31">
+        <item>اختر المادة...</item>
+
+    </string-array>
+
+    <string-array name="materialMA32">
+        <item>اختر المادة...</item>
+
+    </string-array>
+
+    <string-array name="materialMA41">
+        <item>اختر المادة...</item>
+
+    </string-array>
+
+    <string-array name="materialMA42">
+        <item>اختر المادة...</item>
+
+    </string-array>
+
+    <string-array name="materialMB11">
+        <item>اختر المادة...</item>
+        <item>حقوق انسان</item>
+    </string-array>
+
+    <string-array name="materialMB12">
+        <item>اختر المادة...</item>
+
+    </string-array>
+
+    <string-array name="materialMB21">
+        <item>اختر المادة...</item>
+
+    </string-array>
+
+    <string-array name="materialMB22">
+        <item>اختر المادة...</item>
+
+    </string-array>
+
+    <string-array name="materialMB31">
+        <item>اختر المادة...</item>
+
+    </string-array>
+
+    <string-array name="materialMB32">
+        <item>اختر المادة...</item>
+
+    </string-array>
+
+    <string-array name="materialMB41">
+        <item>اختر المادة...</item>
+
+    </string-array>
+
+    <string-array name="materialMB42">
+        <item>اختر المادة...</item>
+
+    </string-array>
+
+    <string-array name="materialBT11">
+        <item>اختر المادة...</item>
+        <item>حقوق انسان</item>
+    </string-array>
+
+    <string-array name="materialBT12">
+        <item>اختر المادة...</item>
+
+    </string-array>
+
+    <string-array name="materialBT21">
+        <item>اختر المادة...</item>
+
+    </string-array>
+
+    <string-array name="materialBT22">
+        <item>اختر المادة...</item>
+
+    </string-array>
+
+    <string-array name="materialBT31">
+        <item>اختر المادة...</item>
+
+    </string-array>
+
+    <string-array name="materialBT32">
+        <item>اختر المادة...</item>
+
+    </string-array>
+
+    <string-array name="materialBT41">
+        <item>اختر المادة...</item>
+
+    </string-array>
+
+    <string-array name="materialBT42">
+        <item>اختر المادة...</item>
+
+    </string-array>
+
+</resources>
